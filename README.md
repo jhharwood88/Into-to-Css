@@ -1,0 +1,1 @@
+In this porject i am recreating a site using html and css, using precut png  files and a test page. I cannot figgure out how to alight the bottom photo as well as overlay a list onto a png.
