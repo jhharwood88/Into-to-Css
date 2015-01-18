@@ -38,6 +38,9 @@
         .infoparagraph{
           text-indent: 20px     
         }
+        .paragraph3{
+          padding-top:10px;
+        }
         .checklist,.colum1,.colum2{
           font-family: courier;
           background-image: url("IMG/list-bg.png");
