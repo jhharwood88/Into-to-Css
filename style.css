@@ -28,6 +28,12 @@
           margin-top: 0px;
           margin-bottom: 20px;
         }
+        ul{ 
+          list-style: none;
+          width: 150px;
+          height: 100px;
+          
+        }
         .toplogo{
           float: top;
           position: relative;
@@ -41,23 +47,21 @@
         .paragraph3{
           padding-top:10px;
         }
-        .checklist,.colum1,.colum2{
+        .checklist{
           font-family: courier;
           background-image: url("IMG/list-bg.png");
-          padding-left: 60px;
-          float: left;
-          text-align: center;
-        }
+          }
         .colum1{
-          background-image: none;
-          text-align: left;
-          padding-right: 30px;
-                }
-
-        .colum2{
-          background-image: none;
-          text-align: left;
+          position: relative;
+          left: 70px;
         }
+        .colum2{
+          position: relative;
+          left: 450px;
+          bottom:115px;
+        }
+        
+        
         .topdirectbar{
           text-align: right;
           position: relative;
@@ -78,13 +82,18 @@
           text-align: center;
         }
         .borderslash{
-          position: relative;
-          right: 25px;
+          background-image:url("IMG/borderslash.png");
+          
         }
+
         .sharebutton{
           text-align: right;
           position: relative;
           bottom: 30px;
+        }
+
+        .li {
+          padding: 3px 0;
         }
         }
       </style>
