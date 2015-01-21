@@ -1,0 +1,99 @@
+ 
+      <style>
+        body {
+        font-family: Times, serif;
+        font-size: 15px;
+        }
+        h1{
+          line-height: 40px;
+          font-family: Yellowtail;
+          font-size: 60px;
+          margin-bottom: 1px;
+          padding-left: 40px;}
+        h2{
+          font-family: courier, monospace;
+          line-height: 0px;
+          font-weight: lighter;
+          font-size: 12px;
+          padding-left:45px;}     
+        h3{
+          font-family: arial, sans-serif;
+          font-size: 45px;
+          margin-bottom: 1px;
+        }
+        h4{
+          font-weight: lighter;
+          font-size: 12px;
+          line-height: : 0px;
+          margin-top: 0px;
+          margin-bottom: 20px;
+        }
+        ul{ 
+          list-style: none;
+          width: 150px;
+          height: 100px;
+          
+        }
+        .toplogo{
+          float: top;
+          position: relative;
+          top: 80px;
+          padding-top: 20px;
+        
+        }
+        .infoparagraph{
+          text-indent: 20px     
+        }
+        .paragraph3{
+          padding-top:10px;
+        }
+        .checklist{
+          font-family: courier;
+          background-image: url("IMG/list-bg.png");
+          }
+        .colum1{
+          position: relative;
+          left: 70px;
+        }
+        .colum2{
+          position: relative;
+          left: 450px;
+          bottom:115px;
+        }
+        
+        
+        .topdirectbar{
+          text-align: right;
+          position: relative;
+          bottom: 30px;
+          right: 55px;
+        }
+        .printico{
+          position: relative;
+          
+          right: 60px;
+          text-align: right
+        }
+        .imagevan{
+          position: relative;
+          top: 35px;
+        }
+        .imagesmall{
+          text-align: center;
+        }
+        .borderslash{
+          background-image:url("IMG/borderslash.png");
+          
+        }
+
+        .sharebutton{
+          text-align: right;
+          position: relative;
+          bottom: 30px;
+        }
+
+        .li {
+          padding: 3px 0;
+        }
+        }
+      </style>
